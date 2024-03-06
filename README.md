@@ -34,6 +34,7 @@ My Dockerized App is a web application built with Node.js and Docker. It provide
 4. Run a Docker container from the image:
 ```shell
 docker run -p 80:<your-port> <username>/docker-starter
+```
 
 This command maps port 3000 from the container to preffered port on the host machine. You can change the host port if necessary.
 
