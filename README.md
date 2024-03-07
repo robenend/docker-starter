@@ -39,7 +39,7 @@ My Dockerized App is a web application built with Node.js (Express) and Docker. 
     docker run -p 80:<your-port> <username>/docker-starter
     ```
 
-    This command maps port 3000 from the container to preffered port on the host machine. You can change the host port if necessary.
+    This command maps port 80 from the container to preffered port on the host machine. You can change the host port if necessary.
 
 5. Access the application in your browser:
 
